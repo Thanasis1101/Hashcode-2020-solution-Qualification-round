@@ -3,19 +3,10 @@ Our solution for the 2020 [Google Hashcode](https://codingcompetitions.withgoogl
 
 | File  | Score |
 | ------------- | ------------- |
-| a_example | 21
-
-a_example
-- Score: 21
-b_read_on
-- Score: 5822900
-c_incunabula
-- Score: 5645747
-d_tough_choices
-- Score: 4812730
-e_so_many_books
-- Score: 5019670
-f_libraries_of_the_world
-- Score: 5240161
-
-Total score: 26541229
+| a_example | 21 |
+| b_read_on | 5,822,900 |
+| c_incunabula | 5,645,747 |
+| d_tough_choices | 4,812,730 |
+| e_so_many_books | 5,019,670 |
+| f_libraries_of_the_world | 5,240,161 |
+| Total | 26541229 |
